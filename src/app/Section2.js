@@ -15,7 +15,7 @@ const Section2 = () => {
                 backgroundImage: "url('/assets/img/bg/offer-bg1.jpg')",
               }}
             >
-              <div className="offer-img">
+              <div className="offer-img"> 
                 <img
                   src="/assets/img/offer/offer-img1.png"
                   alt="offer"
