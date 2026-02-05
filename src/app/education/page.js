@@ -5,7 +5,7 @@ const Section1 = () => {
       {/* Hero Section */}
       <section className="hero-edu-section py-5">
         <div className="container">
-          <div className="row">
+          <div className="row justify-content-left">
             <div className="col-12 col-lg-12">
               <h1 className="hero-edu-title display-4 fw-bold mb-4">
                 Financial Markets Education
